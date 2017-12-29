@@ -1,5 +1,5 @@
 # MortgageCalculator
-An Android App that can be used to calculate the mortgage that you need to pay on your house
+An Android App that calculates the mortgage that you need to pay on your house
 
 ## How It Works
 This app takes in three user input values. They are, the **priciple** amount, the **amortization** amount and the **interest** which are fed into the formula below:
